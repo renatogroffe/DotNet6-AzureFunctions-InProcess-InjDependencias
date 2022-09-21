@@ -3,4 +3,4 @@ Exemplo de implementação de aplicação serverless criada com .NET 6 + Azure F
 
 Documentação:
 
-[**Use dependency injection in .NET Azure Functions**](https://learn.microsoft.com/en-us/azure/azure-functions/functions-dotnet-dependency-injection)
+[**Use dependency injection in .NET Azure Functions | Microsoft Docs**](https://learn.microsoft.com/en-us/azure/azure-functions/functions-dotnet-dependency-injection)
